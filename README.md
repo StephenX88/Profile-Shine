@@ -6,7 +6,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - This project helped me improve my html, css, and flex skills
 
 ## Installation
-no instillation needed. got to 
+no instillation needed. got to https://stephenx88.github.io/Profile-Shine/
 ## Usage
 Visual Studio Codes
 Gitbash
